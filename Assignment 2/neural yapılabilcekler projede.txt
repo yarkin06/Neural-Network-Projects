@@ -1,0 +1,23 @@
++ 2. soru son kısımdaki stringi yazarken içinde tests olan kısımları fonksiyon şeklinde yazıp çek, tests i sil, herşeyi birbirinini içine at
+
++ 2. soru correct: diye yazdırdığı şey ne ona bak
+
++2 soru için de:
+
+if imp.ndim == 1:
+	imp.reshape .. için bi fonksiyon aç her seferinde orayı çağır
+
+2.soruda np.transpose var 120 küsür satırda ona bak
+
+2. soruda m1 ve m2 fonksyionlarında vec fonksiyonun silip direk içlerine vec in ne yaptığını yaz
+
+1. soruda epoch, layer sayısı, neuron sayıları vs onları ilk tanımlayıp sonra variable ismi cinsinden fonksiyonlara sokabilirsin
+
+2 soruda da mean hep 0 onu direk fonksiyonlardan silebiliriz
+
+2. soruda layer: filan yazdırmıyo onu niye bak
+
+ilk soruda parametreleri değiştir daha iyi sonuçlar gelcekse (batch, lrate, std filan)
+
+
+PARAMTERRELERLE OYNA İLK SORUDA

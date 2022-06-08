@@ -1,0 +1,15 @@
+[1],  he  said
+True label= .
+The Top-10 Candidates are: {last  ,  to  he  today  yesterday  :  .  ?  for  }
+[2]put  the  other
+True label= one
+The Top-10 Candidates are: {in  i  way  ,  two  people  day  one  team  .  }
+[3]you  get  on
+True label= with
+The Top-10 Candidates are: {it  .  your  him  you  with  this  ?  the  and  }
+[4]nt  want  to
+True label= see
+The Top-10 Candidates are: {get  come  say  think  know  .  see  be  do  go  }
+[5]good  in  those
+True label= days
+The Top-10 Candidates are: {to  that  place  years  school  ,  .  days  ?  times  }

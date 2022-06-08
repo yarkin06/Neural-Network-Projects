@@ -1,0 +1,31 @@
+Question-1 Part-a
+Layer 0: Input_Dim: 1024, Neuron #: 30
+Layer 1: Input_Dim: 30, Neuron #: 1
+
+Accuracy: 81.0%
+
+
+Question-1 Part-c
+High Hidden Neurons Training
+Layer 0: Input_Dim: 1024, Neuron #: 200
+Layer 1: Input_Dim: 200, Neuron #: 1
+
+Low Hidden Neurons Training
+Layer 0: Input_Dim: 1024, Neuron #: 5
+Layer 1: Input_Dim: 5, Neuron #: 1
+
+
+Question-1 Part-d
+Layer 0: Input_Dim: 1024, Neuron #: 300
+Layer 1: Input_Dim: 300, Neuron #: 30
+Layer 2: Input_Dim: 30, Neuron #: 1
+
+Accuracy: 81.69999999999999%
+
+
+Question-1 Part-e
+Layer 0: Input_Dim: 1024, Neuron #: 300
+Layer 1: Input_Dim: 300, Neuron #: 30
+Layer 2: Input_Dim: 30, Neuron #: 1
+
+Accuracy: 84.1%

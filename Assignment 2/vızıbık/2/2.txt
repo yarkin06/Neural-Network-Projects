@@ -1,0 +1,20 @@
+[[ 15 246 248  92 175]
+ [ 75   2 173  88 143]
+ [246 139 176 143  27]
+ [200 237 170 185   6]
+ [ 58 248  46 173 248]
+ [ 33   0 201 157   5]
+ [148   6  32 139 246]
+ [ 88  33 157  95  43]
+ [143  43  25 248 174]
+ [ 22  27 192 192  92]]
+[1]did, nt, show
+The Top-10 Candidates are: {before, for, time, in, right, good, way, ?, ., ,, }
+[2]to, last, long
+The Top-10 Candidates are: {time, just, there, a, the, all, over, good, not, going, }
+[3]nt, come, around
+The Top-10 Candidates are: {the, this, us, me, him, any, them, that, to, it, }
+[4]is, one, time
+The Top-10 Candidates are: {business, ?, ., my, this, that, there, here, the, it, }
+[5]do, you, know
+The Top-10 Candidates are: {up, ., going, over, the, money, time, not, work, business, }
