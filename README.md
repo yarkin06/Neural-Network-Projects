@@ -1,1 +1,1 @@
-# Neural-Network-Projects
+# EEE 443 Neural-Network-Projects
